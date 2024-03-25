@@ -1,1 +1,4 @@
+In the previous project, we employed Ordinary Least Squares (OLS) and Ridge Regression to predict house sale prices. Using these two methods, we estimated two linear models. Initially, we estimated a model by regressing house sale prices on two specific covariates (GrLivArea and YearBuilt). Subsequently, we estimated a second linear model where house sale prices were regressed on a broader set of factors, comprising 74 covariates.
+
+Before delving into the new project, it is crucial to clarify and understand that both OLS and Ridge Regression are estimation methods (estimators) rather than models themselves. They are used to estimate the parameters of the house sale price linear regression model. Thus, it is inaccurate to refer to OLS and Ridge Regression as models. Distinguishing between a model and an estimation method is essential for clarity.
 
