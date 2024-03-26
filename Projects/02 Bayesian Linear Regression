@@ -5,6 +5,6 @@ were regressed on a broader set of factors, comprising 74 covariates.
 
 Before delving into the new project, it is crucial to clarify and understand that both OLS and Ridge Regression are estimation methods
 (estimators) rather than models themselves. They are used to estimate the parameters of the house sale price linear regression model. 
-Thus, it is inaccurate to refer to OLS and Ridge Regression as models. ***Distinguishing between a model and an estimation method is 
-essential for clarity***.
+Thus, it is inaccurate to refer to OLS and Ridge Regression as models. Distinguishing between a model and an estimation method is 
+essential for clarity.
 
